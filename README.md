@@ -1,5 +1,5 @@
 #  About Me:
-Frontend web development<br>React and JavaScript projects<br>Building interactive user interfaces<br>Real-world project experience<br>Problem solving mindset
+Java Fullstack Developer<br>Frontend web development<br>React and JavaScript projects<br>Building interactive user interfaces<br>Real-world project experience<br>Problem solving mindset
 
 
 ##  Socials:
